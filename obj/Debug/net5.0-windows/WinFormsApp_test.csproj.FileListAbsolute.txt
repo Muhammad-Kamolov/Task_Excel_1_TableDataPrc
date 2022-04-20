@@ -1,0 +1,48 @@
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.exe
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.deps.json
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.runtimeconfig.json
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.runtimeconfig.dev.json
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.dll
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.pdb
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.Form1.resources
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.csproj.GenerateResource.cache
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.AssemblyInfo.cs
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.dll
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\refint\WinFormsApp_test.dll
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.pdb
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.genruntimeconfig.cache
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\ref\WinFormsApp_test.dll
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.csproj.CopyComplete
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\ExcelDataReader.dll
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\ExcelDataReader.DataSet.dll
+D:\Visual Studio Projects\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\Microsoft.Office.Interop.Excel.dll
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.exe
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.deps.json
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.runtimeconfig.json
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.runtimeconfig.dev.json
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.dll
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\WinFormsApp_test.pdb
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\ExcelDataReader.dll
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\ExcelDataReader.DataSet.dll
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\Microsoft.Office.Interop.Excel.dll
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+F:\WinFormsApp_test\WinFormsApp_test\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.csproj.AssemblyReference.cache
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.Form1.resources
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.csproj.GenerateResource.cache
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.GeneratedMSBuildEditorConfig.editorconfig
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.AssemblyInfoInputs.cache
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.AssemblyInfo.cs
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.csproj.CoreCompileInputs.cache
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.csproj.CopyComplete
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.dll
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\refint\WinFormsApp_test.dll
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.pdb
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\WinFormsApp_test.genruntimeconfig.cache
+F:\WinFormsApp_test\WinFormsApp_test\obj\Debug\net5.0-windows\ref\WinFormsApp_test.dll

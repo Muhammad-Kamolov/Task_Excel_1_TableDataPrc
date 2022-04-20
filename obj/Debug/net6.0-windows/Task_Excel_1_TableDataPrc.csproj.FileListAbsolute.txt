@@ -1,0 +1,46 @@
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.exe
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.deps.json
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.runtimeconfig.json
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.dll
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.pdb
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.csproj.AssemblyReference.cache
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\WinFormsApp_tesTask_Excel_1_TableDataPrct.Form1.resources
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.csproj.GenerateResource.cache
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.AssemblyInfoInputs.cache
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.AssemblyInfo.cs
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.csproj.CoreCompileInputs.cache
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.csproj.CopyComplete
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.dll
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\refint\Task_Excel_1_TableDataPrc.dll
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.pdb
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.genruntimeconfig.cache
+C:\Users\m.kamolov\Desktop\Task_Excel_1_TableDataPrc\WinFormsApp_test\obj\Debug\net6.0-windows\ref\Task_Excel_1_TableDataPrc.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.exe
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.deps.json
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.runtimeconfig.json
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.pdb
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\ExcelDataReader.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\WinFormsApp_tesTask_Excel_1_TableDataPrct.Form1.resources
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.AssemblyInfo.cs
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.csproj.CopyComplete
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\refint\Task_Excel_1_TableDataPrc.dll
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.pdb
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\Task_Excel_1_TableDataPrc.genruntimeconfig.cache
+D:\Visual Studio Projects\Task_Excel_1_TableDataPrc\Task_Excel_1_TableDataPrc\obj\Debug\net6.0-windows\ref\Task_Excel_1_TableDataPrc.dll
