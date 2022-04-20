@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
 
+// Below references (libraries, .dll) you should download and install first then use, via "Nuget-pocket Manager" or references features 
 using ExcelDataReader;
 using System.Data.Common;
 using System.Data.OleDb;
